@@ -1,0 +1,4 @@
+MOV AH,07H
+L:
+INT 21H
+JMP L
