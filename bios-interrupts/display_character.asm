@@ -1,0 +1,4 @@
+MOV AH,02H
+MOV DL,'M'
+INT 21H
+HLT
